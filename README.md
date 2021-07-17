@@ -28,9 +28,13 @@ and Done.
 
 Don't forget to give me ⭐️ if this repository make you more enjoy to learn programming!
 
-or
-![Alt Text](https://saweria.co/overlays/qr?streamKey=54e448c4b24db973696187d89268efd2&backgroundColor=%23ffffffFF&barcodeColor=%23050505FF&username=dwikresno11
-)
+or Wanna buy a coffe? </br>
+
+Saweria</br>
+
+![Alt Text](https://github.com/dwikresno/Game-Simple-1/blob/main/app/saweria.PNG?raw=true)
+
+or open this [Link](https://saweria.co/dwikresno11)
 
 Thank you
 
