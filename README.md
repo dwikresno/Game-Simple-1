@@ -28,7 +28,7 @@ and Done.
 
 Don't forget to give me ⭐️ if this repository make you more enjoy to learn programming!
 
-or Wanna buy a coffe? </br>
+or Wanna buy me a coffe? </br>
 
 Saweria</br>
 
