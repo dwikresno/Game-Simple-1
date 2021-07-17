@@ -2,7 +2,7 @@
 
 Demo Apps [Link to Download App!](https://github.com/dwikresno/movie-flutter/blob/main/app/app.apk?raw=true)
 
-![Alt Text](https://github.com/dwikresno/movie-flutter/blob/main/app/gif-movie.gif)
+![Alt Text](https://github.com/dwikresno/Game-Simple-1/blob/main/app/example.gif)
 
 ## Installation
 
