@@ -1,16 +1,36 @@
-# game1
+# Simple Game By Dwi Kresno
 
-A new Flutter project.
+Demo Apps [Link to Download App!](https://github.com/dwikresno/movie-flutter/blob/main/app/app.apk?raw=true)
 
-## Getting Started
+![Alt Text](https://github.com/dwikresno/movie-flutter/blob/main/app/gif-movie.gif)
 
-This project is a starting point for a Flutter application.
+## Installation
 
-A few resources to get you started if this is your first Flutter project:
+How to running this project?
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Flutter isn't installed yet on your computer?
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+please follow this guide
+ - windows link [Flutter Windows](https://flutter.dev/docs/get-started/install/windows)
+ - Mac OS link [Flutter Mac OS](https://flutter.dev/docs/get-started/install/macos)
+
+Already install flutter?
+
+Nice
+
+First you must download/clone this project
+
+Second running this command
+```bash
+flutter pub get
+```
+and Done.
+
+Don't forget to give me ⭐️ if this repository make you more enjoy to learn programming!
+
+or
+![Alt Text](https://saweria.co/overlays/qr?streamKey=54e448c4b24db973696187d89268efd2&backgroundColor=%23ffffffFF&barcodeColor=%23050505FF&username=dwikresno11
+)
+
+Thank you
+
